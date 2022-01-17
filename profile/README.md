@@ -3,7 +3,7 @@
 # **Code Pandora** 👺
 Powerful Web/Mobile development organization
 
-## Projects We made shine bright!
+## Technology Stack
 
 − PHP (Laravel), Python (Django, DRF), MySQL, PostgreSQL
 − React, Vue (Nuxt), JavaScript / TypeScript, jQuery
@@ -12,6 +12,6 @@ Powerful Web/Mobile development organization
 
 | Achievement − 2021  |
 | ------------- |
-| 👨‍👨‍👦‍👦Нас стало целых 14 человек! Это более 1% от населения Ватикана!|
-| 📈Мы взяли более 16 проектов в самых различных областях:от производственных проектов до корпоративных CMS систем.    |
+| 👨‍👨‍👦‍👦There were as many as 14 of us! This is more than 1% of the population of the Vatican!|
+| 📈We have taken more than 16 projects in various fields:from production projects to corporate CMS systems.|
 | zebra stripes |

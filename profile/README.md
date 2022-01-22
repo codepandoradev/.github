@@ -5,12 +5,22 @@ Powerful Web/Mobile development organization
 
 ## Technology Stack
 
-− PHP (Laravel), Python (Django, DRF), MySQL, PostgreSQL
-− React, Vue (Nuxt), JavaScript / TypeScript, jQuery
+### Backend
+| Language | Frameworks | Services |
+| ------------- | ------------- | ------------- |
+| PHP | Laravel | MySQL |
+| Python | Django, DRF | PostgreSQL |
+
+### Frontend
+| Framework | JavaScript | TypeScript |
+| ------------- | ------------- | ------------- |
+| React | ✅ | ✅ |
+| Vue (Nuxt) | ✅ | ❌ |
+| Pure (Jquery) | ✅ | ❌ |
 
 ## Achievements
 
-| Achievement − 2021  |
+| 2021  |
 | ------------- |
 | 👨‍👨‍👦‍👦There were as many as 14 of us! This is more than 1% of the population of the Vatican!|
 | 📈We have taken more than 16 projects in various fields:from production projects to corporate CMS systems.|

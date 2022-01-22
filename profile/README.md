@@ -13,7 +13,7 @@ Powerful Web/Mobile development organization
 
 ### Frontend
 | Framework | JavaScript | TypeScript |
-| ------------- | ------------- | ------------- |
+| ------------- | :----: | :----: |
 | React | ✅ | ✅ |
 | Vue (Nuxt) | ✅ | ❌ |
 | Pure (Jquery) | ✅ | ❌ |
